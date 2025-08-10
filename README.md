@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 안녕하세요! 저는 레몬 파이로 프로그램 참여하게 된 백수진이라고 합니다.
+- 안녕하세요!
 
 ## 자기소개 CLI
 - Clone this repository:
