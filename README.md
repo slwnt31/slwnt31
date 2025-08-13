@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=slwnt31's%20GitHub&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-![Result Image](./assets/result.png)
+<p align="center">
+  <img src="./result.png" alt="Result Image" width="400"/>
+</p>
 
-# 👋 Hi, I'm slwnt31 
 
 🎓 **Computer Science major**  
 💻 Interested in **Backend Development**  
@@ -26,16 +27,15 @@ Here are some ideas to get you started:
 
 ---
 
-### 💡 Tech Interests
-- Backend Architecture  
-- RESTful APIs & Microservices  
-- Database Design & Optimization  
+
+### 💡 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
-
-### 📫 Let's Connect!
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/slwnt31)
-
 
 
 
