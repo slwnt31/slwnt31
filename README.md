@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=slwnt31's%20GitHub&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-![Result Image](./result.png)
+![Result Image](./assets/result.png)
 
 # 👋 Hi, I'm slwnt31 
 
