@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Sujin.
 
-🎓 **Computer Science major**  
+🎓 **Major in Computer Engineering**
 💻 Interested in **Backend Development**  
 🚀 Passionate about building efficient and reliable systems  
 📚 Always learning new technologies to improve my skills  
