@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ---
 
-# 👋 Hi, I'm slwnt31 
+# 👋 Hi, I'm Sujin.
 
 🎓 **Computer Science major**  
 💻 Interested in **Backend Development**  
