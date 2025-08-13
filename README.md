@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=slwnt31's%20GitHub&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 <p align="center">
-  <img src="./result.png" alt="Result Image" width="400"/>
+  <img src="./assets/result.png" alt="Result Image" width="400"/>
 </p>
 
+---
+
+# 👋 Hi, I'm slwnt31 
 
 🎓 **Computer Science major**  
 💻 Interested in **Backend Development**  
@@ -27,6 +30,12 @@ Here are some ideas to get you started:
 
 ---
 
+### 💡 Tech Interests
+- Backend Architecture  
+- RESTful APIs & Microservices  
+- Database Design & Optimization  
+
+---
 
 ### 💡 Tech Stack
 <p>
@@ -35,12 +44,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
+
+### 📫 Let's Connect!
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/slwnt31)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/zerthoe)
 
 
 
-
-## 자기소개 CLI
+## About My CLIck-Me RePository..
 - Clone this repository:
 ```sh
 git clone https://github.com/slwnt31/CLIck-Me.git
