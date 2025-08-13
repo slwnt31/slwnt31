@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **slwnt31/slwnt31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Venom.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=slwnt31's%20GitHub&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+
+## 코드 예시
+```python
 import click
 from rich.markdown import Markdown
 from rich.console import Console
@@ -32,7 +33,6 @@ def main():
         time.sleep(0.3)
 
     print("\n")
-
     click.echo(pyfiglet.figlet_format("Welcome To SLWNT31", font="slant"))
 
 if __name__ == "__main__":
