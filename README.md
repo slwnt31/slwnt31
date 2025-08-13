@@ -15,28 +15,29 @@ Here are some ideas to get you started:
 
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=slwnt31's%20GitHub&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-## 코드 예시
-```python
-import click
-from rich.markdown import Markdown
-from rich.console import Console
-from rich.progress import track
-from rich.table import Table
-from rich.syntax import Syntax
-import time, pyfiglet
+![Result Image](./result.png)
 
-console = Console()
+# 👋 Hi, I'm slwnt31 
 
-@click.command()
-def main():
-    for step in track(range(5), description="Wait..."):
-        time.sleep(0.3)
+🎓 **Computer Science major**  
+💻 Interested in **Backend Development**  
+🚀 Passionate about building efficient and reliable systems  
+📚 Always learning new technologies to improve my skills  
 
-    print("\n")
-    click.echo(pyfiglet.figlet_format("Welcome To SLWNT31", font="slant"))
+---
 
-if __name__ == "__main__":
-    main()
+### 💡 Tech Interests
+- Backend Architecture  
+- RESTful APIs & Microservices  
+- Database Design & Optimization  
+
+---
+
+### 📫 Let's Connect!
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/slwnt31)
+
+
+
 
 
 ## 자기소개 CLI
